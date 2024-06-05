@@ -268,3 +268,5 @@ wall.jpg
 .xmonad/xmonad.errors
 .xmonad/xmonad.hi
 *.o
+./oh-my-zsh
+./dotfiles

@@ -270,3 +270,5 @@ wall.jpg
 *.o
 .oh-my-zsh
 dotfiles
+.z
+Temp

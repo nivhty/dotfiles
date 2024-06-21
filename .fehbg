@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/tanvan/Pictures/wallpaper.png' 
+feh --no-fehbg --bg-center '/home/tanvan/Pictures/wallpaper.png' 

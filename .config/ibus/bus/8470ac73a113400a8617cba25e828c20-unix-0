@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:path=/home/tanvan/.cache/ibus/dbus-4Hi8VdiR,guid=8e98935192bc3d93e86502cd66794ef8
-IBUS_DAEMON_PID=768
+IBUS_ADDRESS=unix:path=/home/tanvan/.cache/ibus/dbus-7amsyYnK,guid=9f1accf70cbe02ddea487e506679a0c5
+IBUS_DAEMON_PID=802

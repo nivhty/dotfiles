@@ -195,4 +195,4 @@ bindsym $mod+shift+x exec i3lockmore --image-fill $HOME/Pictures/wallpaper.png
 bindsym $mod+u exec --no-startup-id $HOME/.config/polybar/blocks/scripts/launcher.sh
 exec_always feh --bg-center $HOME/Pictures/wallpaper.png
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh --blocks
-#exec_always --no-startup-id $HOME/.config/polybar/colorblocks/scripts/pywal.sh $HOME/Pictures/wallpaper.png
+bindsym $mod+Shift+S exec flameshot gui

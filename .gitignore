@@ -289,4 +289,7 @@ Temp
 **/.history
 
 # End of https://www.gitignore.io/api/visualstudiocode
-./config/dconf/*
+.config/dconf/*
+.config/ibus/bus/*
+.config/polybar/blocks/scripts/rofi/*
+

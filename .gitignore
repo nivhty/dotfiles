@@ -292,4 +292,4 @@ Temp
 .config/dconf/*
 .config/ibus/bus/*
 .config/polybar/blocks/scripts/rofi/*
-
+.config/pavucontrol.ini

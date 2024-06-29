@@ -273,6 +273,7 @@ wall.jpg
 .oh-my-zsh
 dotfiles
 .z
+.z.*
 Temp
 # Created by https://www.gitignore.io/api/visualstudiocode
 # Edit at https://www.gitignore.io/?templates=visualstudiocode
@@ -293,3 +294,4 @@ Temp
 .config/ibus/bus/*
 .config/polybar/blocks/scripts/rofi/*
 .config/pavucontrol.ini
+

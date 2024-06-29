@@ -295,3 +295,4 @@ Temp
 .config/polybar/blocks/scripts/rofi/*
 .config/pavucontrol.ini
 
+.config/rclone/*

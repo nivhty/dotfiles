@@ -114,3 +114,5 @@ source $ZSH/oh-my-zsh.sh
 #alias set-speaker-monitor="pactl set-default-sink alsa_output.pci-0000_01_00.1.hdmi-stereo.2"
 alias dot='/usr/bin/git --git-dir=/home/tanvan/dotfiles --work-tree=$HOME'
 alias open='xdg-open'
+# Set up fzf key bindings and fuzzy completion
+source <(fzf --zsh)

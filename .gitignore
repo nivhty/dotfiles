@@ -296,3 +296,5 @@ Temp
 .config/pavucontrol.ini
 
 .config/rclone/*
+.config/google-chrome/
+.config/polybar/blocks/config.ini

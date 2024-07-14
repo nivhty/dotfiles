@@ -116,3 +116,5 @@ alias dot='/usr/bin/git --git-dir=/home/tanvan/dotfiles --work-tree=$HOME'
 alias open='xdg-open'
 # Set up fzf key bindings and fuzzy completion
 source <(fzf --zsh)
+
+eval $(thefuck --alias)

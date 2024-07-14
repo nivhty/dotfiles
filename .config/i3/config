@@ -193,7 +193,7 @@ bindsym $mod+r mode "resize"
 # Custom user configurations
 bindsym $mod+shift+x exec i3lockmore --image-fill $HOME/Pictures/wallpaper.png
 bindsym $mod+u exec --no-startup-id $HOME/.config/polybar/forest/scripts/launcher.sh --style=gruvbox
-exec_always feh --bg-center $HOME/Pictures/wallpaper.png
+exec_always feh --bg-center --bg-fill $HOME/Pictures/wallpaper.png
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh --forest
 bindsym $mod+Shift+S exec flameshot gui
 exec --no-startup-id redshift -l 10.831360:106.668747

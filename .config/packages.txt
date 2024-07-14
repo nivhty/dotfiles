@@ -1,7 +1,3 @@
-# This files is created by running
-# yay -Qe > packages.txt
-# To restore it on a new installation run
-# yay -S --needed - < packages.txt
 alacritty 0.13.2-2
 base 3-2
 base-devel 1-1
@@ -75,7 +71,10 @@ sof-firmware 2024.03-1
 speech-dispatcher 0.11.5-2
 spoof-dpi-bin 0.8-1
 spotify 1:1.2.40.599-1
+spotify-tui 0.25.0-4
+spotifyd 0.3.5-1
 telegram-desktop-bin 5.1.7-1
+thefuck 3.32-9
 ttf-dejavu 2.37+18+g9b5d1b2f-7
 ttf-droid 20121017-10
 ttf-firacode 6.2-2

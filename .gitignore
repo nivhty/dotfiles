@@ -298,3 +298,9 @@ Temp
 .config/rclone/*
 .config/google-chrome/
 .config/polybar/blocks/config.ini
+.cargo/*
+.config/spotifyd/*
+cache_directory
+.config/spotify-tui/.spotify_token_cache.json
+.config/thefuck/
+.config/spotify-tui/client.yml

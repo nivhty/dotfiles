@@ -85,8 +85,10 @@ ttf-liberation 2.1.5-1
 ttf-roboto 2.138-4
 ttf-terminus-nerd 3.2.1-2
 ttf-ubuntu-font-family 1:0.83-2
+ueberzug 18.2.3-1
 visual-studio-code-bin 1.90.2-1
 vlc 3.0.21-1
+w3m 0.5.3.git20230713_1-1
 wget 1.24.5-3
 wireplumber 0.5.5-1
 wpa_supplicant 2:2.10-8
